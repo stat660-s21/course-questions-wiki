@@ -4,7 +4,7 @@
 
 
 [Chapter 4 Quiz, Problem 1]
-* Question (ypaulsen-stat660): When are quatation marks necessary in SAS data import steps? 
+* Question (ypaulsen-stat660): When are quotation marks necessary in SAS data import steps? 
  * Answer (ypaulsen-stat660): Around file names/paths. 
 
 
@@ -16,7 +16,7 @@
 
 [Chapter 4 Quiz, Problem 3]
 * Question (ypaulsen-stat660): What is meant by delimit here? Here a file is said to be delimited by a period, which seems to be the meaning of the word that I expected in the previous question.  
-* Answer (ypaulsen-stat660): It seems that this question 'delimit' in the sense that I expect it. 
+* Answer (ypaulsen-stat660): It seems that this question uses'delimit' in the sense that I expect it. 
 
 
 [Chapter 4 Quiz, Problem 4]
@@ -46,7 +46,7 @@
 
 [Chapter 9 Quiz, Problem 4]
 * Question (ypaulsen-stat660): Is there any advantage to the rigididty of SAS variable structures?   
-* Answer (ypaulsen-stat660): This wasn't answered here, but I'm inclined to believe it has to do with databases. 
+* Answer (ypaulsen-stat660): This wasn't answered here, but I'm inclined to believe it has to do with working in databases. 
 
 
 [Chapter 9 Quiz, Problem 5]
@@ -58,18 +58,9 @@
 * Question (ypaulsen-stat660): This brings the same question to mind as Problem 4: Is there some advatage to all of the rigidity imposed by SAS?   
 * Answer (ypaulsen-stat660): I'm still left with the same thoughts as with Q4. 
 
-
-
 ***
 
-
-
 # Recipes Exploration Results
-
-
-
-```SAS
-
 
 [sas-recipe-basic-load-remote-file Week 2 SAS Recipe]
 * Question (ypaulsen-stat660): What is the purpose of a temporary file? 
@@ -77,14 +68,16 @@
 
 [sas_recipe-advanced-load-remote-excel-file Week 2 SAS Recipe]
 * Question (ypaulsen-stat660): What is the function of the percent symbol? Or any of this code.    
-
-
+* Answer (ypaulsen-stat660): Most of this code is understandable. I couldn't find an explanation for the percent symbol in our book, nor could I find it in a google search. I'm guessing the % symbol is used for macros.  
+* I was unable to fix the code in time for submission. 
 
 ***
 
 
 
 # Recipes Exploration Results
+
+```SAS
 
 /*sas-recipe-basic-load-remote-file*/
 filename tempfile TEMP; 
