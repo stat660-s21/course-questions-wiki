@@ -94,14 +94,13 @@
 
 
 [Reading SP1 Ls 2, Problem 1]
-* Question (mwong70-stat660): 
-* Answer (mwong70-stat660): 
+* Question (mwong70-stat660): What are some advantages in creating a library?
+* Answer (mwong70-stat660): When hardcoded data is moved, the data source path would need to change. Library enables editing program in multiple places. Library also allows us to read more diverse types of data file (i.e. Excel, Teradata).
 
 
 
 [Reading SP1 Ls 2, Problem 2]
-* Question (mwong70-stat660): 
-* Answer (mwong70-stat660): 
+* Question (mwong70-stat660): In practice, how common is it to use CLEAR option in LIBNAME at the end of a SAS program?
 
 
 
@@ -212,3 +211,4 @@ Summary: Pull data file (i.e. csv, xls) from a web server (i.e. known url).
 )
 
 ```
+
