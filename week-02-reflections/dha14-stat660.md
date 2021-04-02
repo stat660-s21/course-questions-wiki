@@ -45,6 +45,14 @@
 * Question (dha14-stat6660): How is 'drop' next to a dataset name different from 'drop' in the DATA step?
 * Answer (dha14-stat6660): If drop is called right after a dataset named, the variables (being dropped) will not be read in at all, whereas drop in the DATA step will drop the variable after it has been read in SAS. 
 
+[Recipe Basic Load] 
+* Question (dha14-stat6660): What are other types of files can be imported into SAS?
+* Answer (dha14-stat6660): There are several types of files PROC IMPORT supports, which are EXCEL, CSV, TAB, DLM, DBF, ACCESS.
+
+[Recipe Advanced Load] 
+* Question (dha14-stat6660): How is %IF different from the regular if?
+* Answer (dha14-stat6660):IF statement cannot be used outside data step whereas %IF can be used outside and inside data step but within the macro.
+
 
 
 ***
