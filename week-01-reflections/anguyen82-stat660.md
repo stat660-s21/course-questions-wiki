@@ -23,6 +23,7 @@
 
 [Course Structure Quiz, Problem 4]
 * Question (anguyen82-stat660): Will code reviews be done collaboratively or 1 on 1?
+* Answer (anguyen82-stat660): Code reviews will be performed with instructor.
 
 
 
