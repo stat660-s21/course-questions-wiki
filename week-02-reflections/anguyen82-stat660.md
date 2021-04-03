@@ -5,7 +5,7 @@
 
 [Chapter 4 Quiz, Problem 1]
 * Question (anguyen82-stat660): What's the difference between filename and fileref?
-
+* Answer (anguyen82-stat660): The FILENAME statement assigns a fileref to an external file.
 
 
 [Chapter 4 Quiz, Problem 2]
