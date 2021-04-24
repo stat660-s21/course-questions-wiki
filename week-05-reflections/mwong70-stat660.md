@@ -39,6 +39,7 @@ RUN;
 * Answer (mwong70-stat660): One example is when we want to compare the values that were not captured in the prespecified labels including the missing values.
 
 
+
 [TB Ch 15 Quiz, Problem 4]
 * Question (mwong70-stat660): Why does the BY statement in the MEANS procedure require an indexed or sorted variable?
 
