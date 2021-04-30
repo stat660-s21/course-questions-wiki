@@ -15,7 +15,7 @@
 
 
 [TB Ch 8 Quiz, Problem 4]
-* Question (mwong70-stat660): What is the default order in SORT Procedure?
+* Question (mwong70-stat660): What is the default order in BY statement from the SORT Procedure?
 * Answer (mwong70-stat660): The ascending order.
 
 
@@ -63,6 +63,18 @@
 [TB Ch 14 Quiz, Problem 7]
 * Question (mwong70-stat660): How does the TRIM function work?
 * Answer (mwong70-stat660): The TRIM function removes trailing blanks from character values.
+
+
+
+[SP2 Ls 2, Problem 1]
+* Question (mwong70-stat660): What does "reinitializing" mean?
+* Answer (mwong70-stat660): Reinitializing the PDV refers to the process where the computed columns are reset to missing at the beginning of each subsequent iterations of the DATA step.
+
+
+
+[SP2 Ls 3, Problem 1]
+* Question (mwong70-stat660): How does the CAT function work?
+* Answer (mwong70-stat660): It converts numeric values into characters and remove leading blanks.
 
 
 
