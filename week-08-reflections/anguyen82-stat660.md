@@ -4,12 +4,15 @@
 
 
 [Chapter 11 Quiz, Problem 2]
-* Question (anguyen82-stat660):
+* Question (anguyen82-stat660): What happens if I omit the end statement of the DO loop?
+* Answer (anguyen82-stat660): An error occurs and execution stops.
 
 
 
 [Chapter 11 Quiz, Problem 3]
-* Question (anguyen82-stat660):
+* Question (anguyen82-stat660): Is the information, constant interest rate of 10% is expected, useful in constructing
+the DO loop?
+* Answer (anguyen82-stat660): No it is not.
 
 
 
