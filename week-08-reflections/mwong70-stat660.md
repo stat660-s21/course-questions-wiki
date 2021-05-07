@@ -3,6 +3,35 @@
 
 
 
+[TB Ch 11 Quiz, Problem 2]
+* Question (mwong70-stat660): How does the DO loops work?
+* Answer (mwong70-stat660): DO loops can have conditional clauses, can read data, and generate multiple observations.
+
+
+
+[TB Ch 11 Quiz, Problem 3]
+* Question (mwong70-stat660): Compare the DO loop and %DO.
+
+
+
+[TB Ch 11 Quiz, Problem 4]
+* Question (mwong70-stat660): What will happen when a value exceeds the stop value in a DO loop?
+* Answer (mwong70-stat660): Nothing, the output will retain the original value since DO loop will not execute.
+
+
+
+[TB Ch 11 Quiz, Problem 5]
+* Question (mwong70-stat660): What can the OUTPUT statement do?
+* Answer (mwong70-stat660): The OUTPUT statement can write current values to the data set and override the automatic output at the end of the DATA step.
+
+
+
+[TB Ch 11 Quiz, Problem 6]
+* Question (mwong70-stat660): How many observations can we expect in an output when executing a DO loop?
+* Answer (mwong70-stat660): We can expect as many observations as the defined iterations in the DO loop.
+
+
+
 [create-unique-record-ids Week 8 SAS Recipe, Problem 1]
 * Question (mwong70-stat660): What is the function of the underscore in the data file names?
 * Answer (mwong70-stat660): The underscores automate the drop function in data file.
