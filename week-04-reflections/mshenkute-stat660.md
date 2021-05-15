@@ -57,8 +57,26 @@ Chapter 7
 * Question(mshenkute-stat660): What is PDV?
 * Answer(mshenkute-stat660): The Program Data Vector is a logical memory where SAS builds on the output. It is created after SAS syntax is compiled.
 
-![image](https://user-images.githubusercontent.com/80928306/114282712-5745d480-99fa-11eb-8c81-2d33fa6eefa3.png)
+[Updated Extra Credit Q&A]
+* Question(mshenkute-stat660): How do we add new columns in a data step?
+* Answer(mshenkute-stat660): We can add variables in this step that are either better formats or results of summation/product of existing variables.
 
+
+* Question(mshenkute-stat660): How do we use operators such as "like" and "not like" with the where statement? 
+* Answer(mshenkute-stat660): To filter by a keyword we are interested in. This is used in collabaration with the %.
+
+
+* Question(mshenkute-stat660): How many rows does a Program Data Vector have?
+* Answer(mshenkute-stat660): It has one row. 
+
+
+* Question(mshenkute-stat660): Statements such as 'drop' 'where' and 'length' are computed for each row. T/F
+* Answer(mshenkute-stat660): False.
+
+
+* Question(mshenkute-stat660): How do we permanently assign labels in SAS?
+* Answer(mshenkute-stat660): We can use a label assignment with a data step. A proc step could also work but is not permanent as it is 
+applied to the output of that step.
 
 
 ***
