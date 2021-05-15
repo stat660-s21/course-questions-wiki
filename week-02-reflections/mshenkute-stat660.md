@@ -78,6 +78,22 @@ categorical variables?
 * Answer (mshenkute-stat660): keeps the variables when you move stuff over to new dataset. 
 Straight forward
 
+[Updates for Extra Credit]
+* Question (mshenkute-stat660): What is the format accepted for fileref/libref?
+* Answer (mshenkute-stat660): 8 characters long, begin with a letter or underscore and 
+contain only letters numbers or underscores.
+
+* Question (mshenkute-stat660): What is structured dataset vs unstructured?
+* Answer (mshenkute-stat660): Structured dataset is organized into a table format such as
+an excel, where as unstructured is an http or a text file. 
+
+* Question (mshenkute-stat660): What do GUESSINGROWS=, GETNAMES= and DATAROW= do?
+* Answer (mshenkute-stat660): GUESSINGROWS= is for scanning rows with proc import, 
+GETNAMES= is for modifying variable names, and DATAROW= is to indicate which row
+to begin reading.
+
+* Question (mshenkute-stat660): What is the difference between dddmmmyy'd and date7. ?
+* Answer (mshenkute-stat660): Just syntax, they both give out the same formatted date output. 
 
 
 ***
